@@ -1,0 +1,23 @@
+$primary: #293C5A;
+$secondary: #A4A863;
+$warning: #EDD681;
+$info: #D3CDB6;
+
+
+@import "boostrap/bootstrap";
+
+h3 {
+  color: $secondary;
+}
+#header {
+  background-color: $primary;
+}
+footer {
+  background-color: $primary;
+}
+strong {
+  color: red;
+}
+h5 {
+  color: $primary;
+}
